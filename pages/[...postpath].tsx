@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://openinapp.net/heqdd`
+					`https://flattendollar.com/ik2ivkning?key=4a6e690efa482d9419902a6d48cc25b2`
 				}`,
 			},
 		};
