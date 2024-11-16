@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://flattendollar.com/ik2ivkning?key=4a6e690efa482d9419902a6d48cc25b2`
+					`https://flipboard.com/redirect?url=https%3A%2F%2Frockingfolders.com%2F1761368%3Futm_source%3Dflipboard%26utm_content%3DUmer7sat%252Fmagazine%252FCelebrity%2BVideos%2B&v=NeV7a_5HdKb6cEiCcgomA4Yn8LAnH4FKfSWP8MDlSMUAAAGTNNuz6A`
 				}`,
 			},
 		};
